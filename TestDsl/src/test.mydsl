@@ -1,0 +1,15 @@
+datatype String
+
+entity person
+{
+	name:String
+}
+entity blog extends person
+{
+	name:String
+}
+
+
+
+
+
